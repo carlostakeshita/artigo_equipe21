@@ -1,0 +1,25 @@
+A metodologia adotada neste projeto foi estruturada para garantir precisão, replicabilidade e aplicabilidade prática dos resultados. O foco central é o uso de Aprendizagem Profunda (Deep Learning) na análise de imagens de folhas de mandioca, visando a detecção da bactéria Xanthomonas phaseoli pv. manihotis. O processo foi organizado em etapas sequenciais que vão desde a coleta de dados até a integração do modelo em um aplicativo funcional.
+
+O sistema traz as seguintes proposta principais: (1) construção do conjunto de dados, (2) pré-processamento das imagens, (3) treinamento e validação do modelo de Aprendizagem Profunda, (4) testes com imagens inéditas e (5) integração ao aplicativo e ao sistema de mapeamento geográfico.
+\begin{enumerate}
+\item Construção do Conjunto de Dados: O conjunto de dados utilizado no projeto sera composto por imagens reais de folhas de mandioca coletadas em campos.
+
+\item Pré-processamento das Imagens: Em seguida, serão aplicadas técnicas de aumento de dados com o objetivo de aumentar a variabilidade do conjunto de dados e melhorar a capacidade de generalização do modelo.
+
+\item Treinamento e Validação do Modelo: O modelo foi baseado em uma Rede Neural Convolucional utilizando a arquitetura EfficientNet, devido à sua alta precisão em tarefas de visão computacional e bom desempenho em dispositivos com pouca capacidade de processamento.
+
+\item Testes e Validação com Imagens Inéditas: Após o treinamento, o modelo sera testado utilizando imagens que não fizeram parte de nenhuma etapa anterior, garantindo avaliação real da capacidade de generalização.
+
+\item Integração ao Aplicativo e Mapeamento Geográfico: O modelo sera treinado e integrado ao aplicativo desenvolvido, permitindo que usuários capturem ou enviem imagens das folhas de mandioca. Cada análise é armazenada juntamente com coordenadas geográficas obtidas pelo dispositivo, possibilitando a construção de um mapa de calor com as regiões mais afetadas pela bacteriose.
+
+Esse processo permite não apenas a detecção da doença, mas também o monitoramento contínuo das plantações, contribuindo para intervenções rápidas e redução de perdas agrícolas.
+\end{enumerate}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{Illustrations/fluxograma.jpeg}
+    \caption{Exemplo de fluxograma do sistema proposto}
+    \label{fig:exemplo1}
+\end{figure}
+\newpage
+

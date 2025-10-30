@@ -1,0 +1,78 @@
+%%%% fatec-article.tex, 2024/03/10
+
+%% Classe de documento
+\documentclass[
+  a4paper,%% Tamanho de papel: a4paper, letterpaper (^), etc.
+  12pt,%% Tamanho de fonte: 10pt (^), 11pt, 12pt, etc.
+  english,%% Idioma secundário (penúltimo) (>)
+  brazilian,%% Idioma primário (último) (>)
+]{article}
+
+%% Pacotes utilizados
+\usepackage[]{fatec-article}
+\usepackage{float}
+\Author{1}{Name={Carlos Eduardo Campos Takeshita\\ Yago Uran Kurashiki Rios \\ Marcelo Augusto Pedroso Martins\\ Sthevens Konesuk Miranda dos Santos}}
+
+\Author{2}{Name={\{ carloa.takeshita@fatec.sp.gov.br \}\\ \{ yago.rios@fatec.sp.gov.br \} \\ \{ marcelo.martins36@fatec.sp.gov.br\} \\ \{ sthevens.santos@fatec.sp.gov.br \}}}
+
+%% Definição das palavras-chaves/keywords
+\Keyword{1}{Aprendizagem Profunda}{Deep Learning}
+\Keyword{2}{Xanthomonas phaseoli}{Xanthomonas phaseoli}
+\Keyword{3}{Infecções}{Infections}
+
+%%%% Resumo no idioma primário (brazilian)
+\begin{Abstract}[brazilian]%% Idioma (brazilian ou english)
+O Projeto Classificação de Bacteriose nas Folhas da Mandioca, orientado por Aprendizagem Profunda, tem como objetivo desenvolver um aplicativo de inteligência artificial (IA) para detectar as probabilidades da infecção por Xanthomonas phaseoli em folhas de mandioca (Manihot esculenta). Utilizando técnicas de Aprendizagem Profunda e HSV para facilitar a identificação visual, o aplicativo permitirá que os usuários capturem imagens das plantas ou enviem imagens armazenadas em seus dispositivos, com intuito de serem analisadas de forma eficaz pela IA do aplicativo, onde será exibido o grau de infecção da planta. Tendo um sistema de mapeamento que ajudará na identificação de áreas mais vulneráveis, possibilitando intervenções direcionadas. A capacidade de detectar infecções de maneira rápida e eficiente é crucial para a diminuição dos danos causados pela bactéria, sendo possível monitorar as plantações através do mobile ou web, utilizando o sistema de calor e as análises das folhas para mapear e prever a incidência da bactéria.
+\end{Abstract}
+
+%%%% Resumo no idioma secundário (english)
+\begin{Abstract}[english]%% Idioma (brazilian ou english)
+The Deep Learning-Driven Bacteriosis Classification in Cassava Leaves Project aims to develop an artificial intelligence (AI) application to detect the probabilities of Xanthomonas phaseoli infection in cassava leaves(Manihot esculenta). Using deep learning techniques and HSV techniques to facilitate visual identification , the application will allow users to capture images of plants or send images stored on their devices, which will be effectively analyzed by the application's AI, where the degree of infection of the plant will be displayed. Furthermore, the project seeks to create a mapping system that will help identify more vulnerable areas, enabling targeted interventions and improving agricultural practices. The ability to detect infections quickly and efficiently is crucial to reducing the damage caused by the bacteria, promoting the sustainability of cassava production and contributing to food security in affected communities.
+\end{Abstract}
+
+%% Processamento de entradas (itens) do índice remissivo (makeindex)
+\makeindex%
+
+%% Arquivo(s) de referências
+\addbibresource{fatec-article.bib}
+
+%% Início do documento
+\begin{document}
+
+% Seções e subseções
+%\section{Título de Seção Primária}%
+
+%\subsection{Título de Seção Secundária}%
+
+%\subsubsection{Título de Seção Terciária}%
+
+%\paragraph{Título de seção quaternária}%
+
+%\subparagraph{Título de seção quinária}%
+
+\section*{Introdução}%
+\label{sect:intro}
+\input{Topicos/introducao}
+
+\section*{OBJETIVO} \label{sect:obj}
+
+\input{Topicos/objetivo}
+
+\section*{ESTADO DA ARTE} \label{sect:estadoarte}
+
+\input{Topicos/estadodaarte}
+
+\section*{METODOLOGIA} \label{sect:metodologia}
+
+\input{Topicos/metodologia}
+
+
+
+\printbibliography
+
+%% Elementos pós-textuais (opcionais): Apêndice e Anexo
+%Caso for utilizar, basta retirar o símbolo de % na frente do comando
+%\input{./Extras/post-textual}
+
+%% Fim do documento
+\end{document}

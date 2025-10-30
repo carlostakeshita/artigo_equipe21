@@ -1,0 +1,300 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{chaves2021}{incollection}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=88f0b5b0c4c94cb67b3747e9dfc8e85d}{%
+           family={Chaves},
+           familyi={C\bibinitperiod},
+           given={Carlos\bibnamedelimb A.\bibnamedelimi Zárate},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{82efa834c28603770951fe17097680ca}
+      \strng{fullhash}{82efa834c28603770951fe17097680ca}
+      \strng{fullhashraw}{82efa834c28603770951fe17097680ca}
+      \strng{bibnamehash}{82efa834c28603770951fe17097680ca}
+      \strng{authorbibnamehash}{82efa834c28603770951fe17097680ca}
+      \strng{authornamehash}{82efa834c28603770951fe17097680ca}
+      \strng{authorfullhash}{82efa834c28603770951fe17097680ca}
+      \strng{authorfullhashraw}{82efa834c28603770951fe17097680ca}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Plant Pathology}
+      \field{howpublished}{\url{https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/555046/1/gtec32.pdf}}
+      \field{note}{Acesso em: 21 out. 2025}
+      \field{title}{Cassava diseases caused by Xanthomonas phaseoli pv. manihotis and Xanthomonas cassavae}
+      \field{year}{2021}
+      \field{pages}{1520\bibrangedash 1537}
+      \range{pages}{18}
+    \endentry
+    \entry{fialho1999}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c821d09e65a069b831604404899e5694}{%
+           family={Fialho},
+           familyi={F\bibinitperiod},
+           given={Josefino\bibnamedelimb de\bibnamedelima Freitas},
+           giveni={J\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54983097bf6b4322b83218dda37f555e}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Ailton\bibnamedelima Vitor},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MAPA}%
+      }
+      \strng{namehash}{edb53cb785165bd4a5db3dbecdc4e83c}
+      \strng{fullhash}{edb53cb785165bd4a5db3dbecdc4e83c}
+      \strng{fullhashraw}{edb53cb785165bd4a5db3dbecdc4e83c}
+      \strng{bibnamehash}{edb53cb785165bd4a5db3dbecdc4e83c}
+      \strng{authorbibnamehash}{edb53cb785165bd4a5db3dbecdc4e83c}
+      \strng{authornamehash}{edb53cb785165bd4a5db3dbecdc4e83c}
+      \strng{authorfullhash}{edb53cb785165bd4a5db3dbecdc4e83c}
+      \strng{authorfullhashraw}{edb53cb785165bd4a5db3dbecdc4e83c}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Guia Técnico do Produtor Rural}
+      \field{howpublished}{\url{https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/555046/1/gtec32.pdf}}
+      \field{note}{Acesso em: 21 out. 2025}
+      \field{title}{Importância do controle da bacteriose na cultura da mandioca}
+      \field{year}{1999}
+      \field{pages}{1\bibrangedash 2}
+      \range{pages}{2}
+    \endentry
+    \entry{gao2021}{inproceedings}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0be48a9daf13fde579d9d51375cfee5b}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{fullhash}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{fullhashraw}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{bibnamehash}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{authorbibnamehash}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{authornamehash}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{authorfullhash}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{authorfullhashraw}{5c7ee62f091bcfa32dadb99e7477b472}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{7th International Conference on Systems and Informatics (ICSAI)}
+      \field{title}{Cassava disease detection method based on EfficientNet}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICSAI53574.2021.9664101
+      \endverb
+      \verb{urlraw}
+      \verb \url{https://doi.org/10.1109/ICSAI53574.2021.9664101}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://doi.org/10.1109/ICSAI53574.2021.9664101%7D
+      \endverb
+    \endentry
+    \entry{mansfield2012}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f3baab5390acb072e256d06254fb506d}{%
+           family={Mansfield},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{fullhash}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{fullhashraw}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{bibnamehash}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{authorbibnamehash}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{authornamehash}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{authorfullhash}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{authorfullhashraw}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://bsppjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1364-3703.2012.00804.x}}
+      \field{journaltitle}{Molecular Plant Pathology}
+      \field{note}{Acesso em: 21 out. 2025}
+      \field{title}{Top 10 plant pathogenic bacteria in molecular plant pathology}
+      \field{year}{2012}
+      \field{pages}{614\bibrangedash 629}
+      \range{pages}{16}
+    \endentry
+    \entry{mudancas2024}{article}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=475122902dbf4201b5b7faa64b55f2f0}{%
+           family={Rossini},
+           familyi={R\bibinitperiod},
+           given={Carla},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Editora Expressão}%
+      }
+      \strng{namehash}{475122902dbf4201b5b7faa64b55f2f0}
+      \strng{fullhash}{475122902dbf4201b5b7faa64b55f2f0}
+      \strng{fullhashraw}{475122902dbf4201b5b7faa64b55f2f0}
+      \strng{bibnamehash}{475122902dbf4201b5b7faa64b55f2f0}
+      \strng{editorbibnamehash}{475122902dbf4201b5b7faa64b55f2f0}
+      \strng{editornamehash}{475122902dbf4201b5b7faa64b55f2f0}
+      \strng{editorfullhash}{475122902dbf4201b5b7faa64b55f2f0}
+      \strng{editorfullhashraw}{475122902dbf4201b5b7faa64b55f2f0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.revistacanavieiros.com.br/uploads/pagina/tag/2024/02/rH6rbytqp5KlTK50/canavieiros-ed207-jan-compactado.pdf}}
+      \field{journaltitle}{Revista Canavieiros}
+      \field{note}{Acesso em: 21 out. 2025}
+      \field{title}{Mudanças climáticas e os desafios no campo}
+      \field{year}{2024}
+      \field{pages}{86\bibrangedash 93}
+      \range{pages}{8}
+    \endentry
+    \entry{saini2023}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4be1f3247d6d9094391424a77fbf7393}{%
+           family={Saini},
+           familyi={S\bibinitperiod},
+           given={Archana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce1c7dc467cbb7ec6990a0d637ef98e0}{%
+           family={Guleria},
+           familyi={G\bibinitperiod},
+           given={Kalpna},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76c6d2edc0b3f0a9b8393a85b77c53c9}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Shagun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{fullhash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{fullhashraw}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{bibnamehash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{authorbibnamehash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{authornamehash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{authorfullhash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{authorfullhashraw}{96a09040b2b28c789268d92b5288f5b0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2023 International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)}
+      \field{note}{Acesso em: 23 out. 2025}
+      \field{title}{Cassava Leaf Disease Classification Using Pre-Trained EfficientNet Model}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICSSAS57918.2023.10331697
+      \endverb
+      \verb{urlraw}
+      \verb \url{https://www.researchgate.net/publication/376298315_Cassava_Leaf_Disease_Classification_Using_Pre-Trained_EfficientN_Et_Model}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://www.researchgate.net/publication/376298315_Cassava_Leaf_Disease_Classification_Using_Pre-Trained_EfficientN_Et_Model%7D
+      \endverb
+    \endentry
+    \entry{santos2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a51cf4e9061a30d49ef5416b1763bfe5}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={João},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a51cf4e9061a30d49ef5416b1763bfe5}
+      \strng{fullhash}{a51cf4e9061a30d49ef5416b1763bfe5}
+      \strng{fullhashraw}{a51cf4e9061a30d49ef5416b1763bfe5}
+      \strng{bibnamehash}{a51cf4e9061a30d49ef5416b1763bfe5}
+      \strng{authorbibnamehash}{a51cf4e9061a30d49ef5416b1763bfe5}
+      \strng{authornamehash}{a51cf4e9061a30d49ef5416b1763bfe5}
+      \strng{authorfullhash}{a51cf4e9061a30d49ef5416b1763bfe5}
+      \strng{authorfullhashraw}{a51cf4e9061a30d49ef5416b1763bfe5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Brasileira de Tecnologia Aplicada nas Ciências Agrárias}
+      \field{note}{Acesso em: 23 out. 2025}
+      \field{number}{2}
+      \field{title}{Utilização de Inteligência Artificial para Controle de Pragas na Agricultura}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{45\bibrangedash 52}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.5281/zenodo.1234567
+      \endverb
+      \verb{urlraw}
+      \verb \url{https://repositorio.aee.edu.br/jspui/bitstream/aee/20825/1/TCC2-Utilizacao-de-IA-para-Controle-de-Pragas.pdf}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://repositorio.aee.edu.br/jspui/bitstream/aee/20825/1/TCC2-Utilizacao-de-IA-para-Controle-de-Pragas.pdf%7D
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
